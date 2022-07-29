@@ -1,0 +1,33 @@
+.header {
+    background: #343A40;
+    color: #FFFFFF;
+}
+.navbar-brand, .nav-link {
+    color: #FFF;
+}
+.navbar-brand:hover, .nav-link:hover {
+    color: #FFF;
+    opacity: .75;
+}
+.profile {
+    display: grid;
+}
+.col {
+    margin-top: 32px !important;
+}
+.footer {
+    background: #F5F5F5;
+}
+.table-link {
+    color: #007BFF;
+}
+.table-link:hover {
+    opacity: .75;
+}
+#table {
+    margin-top: 32px;
+    margin-bottom: 70px;
+}
+.card-footer {
+    color: #6C757D;
+}
